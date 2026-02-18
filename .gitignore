@@ -3,4 +3,8 @@ ios/Pods/
 .gradle/
 android/app/build/
 android/build/
+android/app/.cxx/
+android/.cxx/
+.DS_Store
 package-lock.json
+*.hprof

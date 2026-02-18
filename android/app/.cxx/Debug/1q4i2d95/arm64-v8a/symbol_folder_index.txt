@@ -1,1 +1,0 @@
-/Users/charan.maanam/MintProject/MintTestApp/android/app/build/intermediates/cxx/Debug/1q4i2d95/obj/arm64-v8a
