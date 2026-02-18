@@ -10,6 +10,7 @@ function App() {
         <Text style={styles.title}>Mint SDK 1</Text>
       </View>
       <MintHelloView style={styles.mintView} />
+      {/* <MintHelloView style={styles.mintView} /> */}
     </SafeAreaView>
   );
 }
