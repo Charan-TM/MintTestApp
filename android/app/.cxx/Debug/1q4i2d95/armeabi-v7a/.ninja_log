@@ -1,0 +1,10 @@
+# ninja log v5
+0	5	0	clean	1affe4d675fe86c9
+0	8	0	/Users/charan.maanam/MintProject/MintTestApp/android/app/.cxx/Debug/1q4i2d95/armeabi-v7a/CMakeFiles/cmake.verify_globs	60e271622284e07b
+26	333	1771436696528860046	build.ninja	e21cac7c0d7f3e5e
+1090	1146	1771436466069941895	/Users/charan.maanam/MintProject/MintTestApp/android/app/build/intermediates/cxx/Debug/1q4i2d95/obj/armeabi-v7a/libappmodules.so	803c3e22c85905f8
+3	1090	1771436466008989199	CMakeFiles/appmodules.dir/OnLoad.cpp.o	2a3f2d0f2404c9bc
+3	1048	1771435512179346456	CMakeFiles/appmodules.dir/Users/charan.maanam/MintProject/MintTestApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	88ae16eafe6d7d86
+0	9	0	/Users/charan.maanam/MintProject/MintTestApp/android/app/.cxx/Debug/1q4i2d95/armeabi-v7a/CMakeFiles/cmake.verify_globs	60e271622284e07b
+2	1210	1771436697755798554	CMakeFiles/appmodules.dir/OnLoad.cpp.o	2a3f2d0f2404c9bc
+1210	1271	1771436697826116725	/Users/charan.maanam/MintProject/MintTestApp/android/app/build/intermediates/cxx/Debug/1q4i2d95/obj/armeabi-v7a/libappmodules.so	803c3e22c85905f8

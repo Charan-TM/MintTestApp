@@ -1,0 +1,10 @@
+# ninja log v5
+0	5	0	clean	1affe4d675fe86c9
+9	145	1771436698368495973	build.ninja	6ace0fb42ceb0fc4
+1266	1323	1771436467924831565	/Users/charan.maanam/MintProject/MintTestApp/android/app/build/intermediates/cxx/Debug/1q4i2d95/obj/x86/libappmodules.so	ba54d23343b96f45
+4	1160	1771435514053950018	CMakeFiles/appmodules.dir/Users/charan.maanam/MintProject/MintTestApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	57ce7ca673628509
+3	1266	1771436467860443863	CMakeFiles/appmodules.dir/OnLoad.cpp.o	1bf07d27b169cb54
+0	8	0	/Users/charan.maanam/MintProject/MintTestApp/android/app/.cxx/Debug/1q4i2d95/x86/CMakeFiles/cmake.verify_globs	91c885a2ada67794
+0	9	0	/Users/charan.maanam/MintProject/MintTestApp/android/app/.cxx/Debug/1q4i2d95/x86/CMakeFiles/cmake.verify_globs	91c885a2ada67794
+4	1379	1771436699766061753	CMakeFiles/appmodules.dir/OnLoad.cpp.o	1bf07d27b169cb54
+1379	1438	1771436699833886837	/Users/charan.maanam/MintProject/MintTestApp/android/app/build/intermediates/cxx/Debug/1q4i2d95/obj/x86/libappmodules.so	ba54d23343b96f45
