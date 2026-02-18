@@ -7,7 +7,7 @@ function App() {
     <SafeAreaView style={styles.container}>
       <StatusBar barStyle="dark-content" />
       <View style={styles.header}>
-        <Text style={styles.title}>Mint SDK 1</Text>
+        <Text style={styles.title}>Mint SDK</Text>
       </View>
       <MintHelloView style={styles.mintView} />
       {/* <MintHelloView style={styles.mintView} /> */}
@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
     color: '#2E7D32',
   },
   mintView: {
-    flex: 1,
+    height: 400
   },
 });
 
