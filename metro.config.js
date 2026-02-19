@@ -9,11 +9,11 @@ const path = require('path');
  * @type {import('@react-native/metro-config').MetroConfig}
  */
 const config = {
-    watchFolders: [path.resolve(__dirname, '../react-native-mint-sdk')],
+    watchFolders: [path.resolve(__dirname, '../react-native-mint-wallet')],
     resolver: {
         blockList: [
             new RegExp(
-                path.resolve(__dirname, '../react-native-mint-sdk', 'node_modules').replace(/\\/g, '\\\\') + '.*'
+                path.resolve(__dirname, '../react-native-mint-wallet', 'node_modules').replace(/\\/g, '\\\\') + '.*'
             ),
         ],
         nodeModulesPaths: [

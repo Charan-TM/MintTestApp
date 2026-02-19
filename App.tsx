@@ -1,16 +1,15 @@
 import React from 'react';
 import { SafeAreaView, StatusBar, StyleSheet, Text, View } from 'react-native';
-import MintHelloView from 'react-native-mint-sdk';
+import MintWalletView from 'react-native-mint-wallet';
 
 function App() {
   return (
     <SafeAreaView style={styles.container}>
       <StatusBar barStyle="dark-content" />
       <View style={styles.header}>
-        <Text style={styles.title}>Mint SDK</Text>
+        <Text style={styles.title}>Mint Wallet</Text>
       </View>
-      <MintHelloView style={styles.mintView} />
-      {/* <MintHelloView style={styles.mintView} /> */}
+      <MintWalletView style={styles.mintView} />
     </SafeAreaView>
   );
 }
