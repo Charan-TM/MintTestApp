@@ -1,6 +1,6 @@
 import React from 'react';
 import { SafeAreaView, StatusBar, StyleSheet, Text, View } from 'react-native';
-import MintWalletView1 from '@tech-mojo/react-native-mint-wallet';
+import MintWalletView from '@tech-mojo/react-native-mint-wallet';
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <View style={styles.header}>
         <Text style={styles.title}>Mint Wallet</Text>
       </View>
-      <MintWalletView1 style={styles.mintView} />
+      <MintWalletView style={styles.mintView} />
     </SafeAreaView>
   );
 }
@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
     color: '#2E7D32',
   },
   mintView: {
-    height: 400
+    height: 600
   },
 });
 
